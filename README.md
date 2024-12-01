@@ -13,8 +13,6 @@
 
 Ez a repó Python nyelven írt feladatokat tartalmaz, amelyek az `input`, `lista`, `for ciklus` gyakorlásához készültek.
 
-A feladatok különböző nehézségi szintűek, és egyaránt tartalmaznak elméleti és gyakorlati elemeket.
-
 ---
 
 # Telepítési Útmutató
