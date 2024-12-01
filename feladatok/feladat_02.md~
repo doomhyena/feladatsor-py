@@ -1,4 +1,8 @@
-### 02.Feladat: Szavak hosszának mérése
+Persze! Itt egy másik feladat, amely szintén használ **inputot**, **listát**, és **for ciklust**:
+
+---
+
+### Feladat: Szavak hosszának mérése
 
 Készíts egy programot, amely megkérdezi a felhasználótól, hogy hány szót szeretne megadni, majd egyenként bekéri a szavakat. A program:
 
