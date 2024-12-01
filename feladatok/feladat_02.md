@@ -1,6 +1,6 @@
 ### 02.Feladat: Szavak hosszának mérése
 
-Készíts egy programot, amely megkérdezi a felhasználótól, hogy hány szót szeretne megadni, majd egyenként bekéri a szavakat. A program:
+Írj egy programot, amely megkérdezi a felhasználótól, hogy hány szót szeretne megadni, majd egyenként bekéri a szavakat. A program:
 
 1. Kérje be a szavak számát.
 2. Kérje be a megadott számú szót.

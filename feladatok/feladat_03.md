@@ -1,6 +1,6 @@
 ### 03.Feladat: Páros és páratlan számok szétválogatása
 
-Készíts egy programot, amely:
+Írj egy programot, amely:
 
 1. Kéri a felhasználótól, hogy hány számot szeretne megadni.
 2. Egyenként bekéri ezeket a számokat.
