@@ -4,12 +4,12 @@ print(f"Téged {neved} hívnak.")
 
 eletkorod = int(input("Kérem az életkorod: "))
 
-print(f"Téged {hívnak} és {eletkorod} vagy.")
+print(f"Téged {neved} és {eletkorod} vagy.")
 print(type(eletkorod))
 
 ureslista = [] # Üres lista
 
-prinnt(type(lista))
+print(type(ureslista))
 
 lista = [17, 5, 6, 23, 75, "Lajos"] # A típusok keveredhetnek
 lista2 = [1, 2, 3, 4]
@@ -30,6 +30,10 @@ lista.clear() # Törli a lista elemeit, üres listát csinál.
 lista.sort() # Rendezés növekvő sorrendbe
 lista.sort(reverse=True) # Rendezés csökkenő sorrendbe.
 
+
+lista3 = [1, 2, 3, 4]
+
+
 for i in range(10):  # i = 0; i < 10; i++
     print(i)
 for i in range(1, 10):  # i = 1; i < 10; i++
@@ -45,4 +49,4 @@ for i in stringmen:  # Betünként sortöréssel kiírja a mondatot
     print(i)
 
 print(stringmen[5])
-print(sttringmen[1:6])
+print(stringmen[1:6])
